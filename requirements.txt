@@ -84,7 +84,6 @@ Pympler==1.1
 python-dateutil==2.9.0.post0
 python-json-logger==4.0.0
 pytz==2026.1.post1
-pywin32==311
 PyYAML==6.0.3
 pyzmq==27.1.0
 referencing==0.36.2
@@ -122,3 +121,4 @@ webcolors==24.11.1
 webencodings==0.5.1
 websocket-client==1.9.0
 zipp==3.23.0
+
